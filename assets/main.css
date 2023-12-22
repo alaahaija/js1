@@ -1,0 +1,10 @@
+.demo{
+    color: bisque;
+    background-color: lightslategray;
+    box-shadow: 10px 10px 10px rgb(69, 70, 69);
+}
+.vip{
+    color: rgb(12, 12, 12);
+    background-color: tomato;
+    box-shadow: 10px 10px 10px rgb(116, 82, 82);
+}
